@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 *.zip filter=lfs diff=lfs merge=lfs -text
+=======
+*.csv filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 99e0e32b660e1d1b1802b46fb0fbede2e118f12e
